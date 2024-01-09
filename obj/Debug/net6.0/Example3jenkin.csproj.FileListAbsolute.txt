@@ -1,0 +1,14 @@
+C:\Mphasis\Simplilearn\Phase4\day3\Example3jenkin\Example3jenkin\bin\Debug\net6.0\Example3jenkin.exe
+C:\Mphasis\Simplilearn\Phase4\day3\Example3jenkin\Example3jenkin\bin\Debug\net6.0\Example3jenkin.deps.json
+C:\Mphasis\Simplilearn\Phase4\day3\Example3jenkin\Example3jenkin\bin\Debug\net6.0\Example3jenkin.runtimeconfig.json
+C:\Mphasis\Simplilearn\Phase4\day3\Example3jenkin\Example3jenkin\bin\Debug\net6.0\Example3jenkin.dll
+C:\Mphasis\Simplilearn\Phase4\day3\Example3jenkin\Example3jenkin\bin\Debug\net6.0\Example3jenkin.pdb
+C:\Mphasis\Simplilearn\Phase4\day3\Example3jenkin\Example3jenkin\obj\Debug\net6.0\Example3jenkin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Mphasis\Simplilearn\Phase4\day3\Example3jenkin\Example3jenkin\obj\Debug\net6.0\Example3jenkin.AssemblyInfoInputs.cache
+C:\Mphasis\Simplilearn\Phase4\day3\Example3jenkin\Example3jenkin\obj\Debug\net6.0\Example3jenkin.AssemblyInfo.cs
+C:\Mphasis\Simplilearn\Phase4\day3\Example3jenkin\Example3jenkin\obj\Debug\net6.0\Example3jenkin.csproj.CoreCompileInputs.cache
+C:\Mphasis\Simplilearn\Phase4\day3\Example3jenkin\Example3jenkin\obj\Debug\net6.0\Example3jenkin.dll
+C:\Mphasis\Simplilearn\Phase4\day3\Example3jenkin\Example3jenkin\obj\Debug\net6.0\refint\Example3jenkin.dll
+C:\Mphasis\Simplilearn\Phase4\day3\Example3jenkin\Example3jenkin\obj\Debug\net6.0\Example3jenkin.pdb
+C:\Mphasis\Simplilearn\Phase4\day3\Example3jenkin\Example3jenkin\obj\Debug\net6.0\Example3jenkin.genruntimeconfig.cache
+C:\Mphasis\Simplilearn\Phase4\day3\Example3jenkin\Example3jenkin\obj\Debug\net6.0\ref\Example3jenkin.dll
